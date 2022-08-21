@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+   line-height: 1.2;
+   font-family:Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.first{
+    background-color: rgb(228, 228, 228);
+    padding: 13px;
+    font-size: 13px;
+    color: #e8e9ea99;
+}
+.second{
+  
+    padding: 17px;
+    background-color: #212529; 
+    
+}
+
+.second .head{
+    padding-left: 7.5rem;
+    color: #fff;
+    font-size: 19px;
+    font-weight: 400;
+    width: 30%;
+}
+.second .menu{
+    color: #888e99;
+    float: right;
+    cursor: pointer;
+   
+}
+.second .ab{
+    padding-right: 20px;
+}
+.second .ser{
+    cursor: pointer;
+    padding-right: 20px;
+}
+.second .con{
+    cursor: pointer;
+    padding-right: 20px;
+}
+.third{
+    text-align: center;
+   background-color: #287EFD;
+  padding-top: 7rem;
+  padding-bottom: 5.7rem;
+}
+
+.third h1{
+    color: #fff;
+    font-weight: 700;
+    font-size: 40px;
+    padding-bottom: 0.5rem;
+}
+.third p{
+    color: #dbe3eb;
+    font-size: 20px;
+    
+    margin-bottom: 1.8rem;
+}
+
+.third a{
+    background-color: #F8F9FA;
+    color: #000;
+    padding: 0.7rem 1rem;
+    font-size: 1.27rem;
+    border-color: #F8F9FA;
+    border-radius: 5px;
+    user-select: none;
+    transition: 1s;
+}
+
+.third a:hover{
+    letter-spacing: 1px;
+    background-color: #c6cdd4;
+}
+
+.forte{
+    padding: 9rem 0;
+    padding-left: 19rem;
+    background-color: #FFFFFF;
+
+}
+h2{
+    
+    font-size: 30px;
+    font-weight:600;
+    color: #212529;
+    margin-bottom: 10px;
+
+}
+
+.forte p{
+    color: #5c635c;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+.forte ul{
+    font-size: 17px;
+    list-style-position: inside;
+    
+    
+}
+.five{
+    background-color: #F8F9FA;
+    padding-left: 19rem;
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+}
+
+
+.five p{
+    
+    color: #5c635c;
+    font-size: 1.25rem;
+    font-weight: 300;
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+.six{
+    background-color: #fff;
+    padding-left: 19rem;
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+}
+
+
+.six p{
+    color: #5c635c;
+    font-size: 1.25rem;
+    font-weight: 300;
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+
+.seven{
+    background-color: #212529;
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.seven p{
+    color:#F8F9FA ;
+    font-size:17px;
+}
+
+
+html::-webkit-scrollbar {
+    width: 10px;
+  }
+
+html::-webkit-scrollbar-track {
+    background: rgb(179, 177, 177);
+    border-radius: 10px;
+}
+
+html::-webkit-scrollbar-thumb {
+    background:rgb(91, 184, 185) ;
+    border-radius: 10px;
+  }
+
+html::-webkit-scrollbar-thumb:hover {
+    background: rgb(91, 184, 185);
+    border-radius: 10px;
+  }
+
+html::-webkit-scrollbar-thumb:active {
+    background: rgb(210, 240, 175);
+    border-radius: 10px;
+  }
